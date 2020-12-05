@@ -1,4 +1,12 @@
-# Wobiz-Vue-Frontend-Test
+# Wobiz: Evaluación Frontend
+
+### Consigna
+```
+Maquetar y desarrollar la funcionalidad de la siguiente pantalla https://admin.wobiz.com.ar/signin
+```
+
+### Implementación
+Evaluación desarrollada con Vue.js utilizando BootstrapVue - [https://bootstrap-vue.org/](https://bootstrap-vue.org/).
 
 ## Project setup
 ```
