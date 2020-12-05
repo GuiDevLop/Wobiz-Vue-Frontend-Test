@@ -1,4 +1,4 @@
-# wobizfrontendsolution
+# Wobiz-Vue-Frontend-Test
 
 ## Project setup
 ```
